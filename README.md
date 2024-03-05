@@ -12,5 +12,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-  Pude construir esse projeto através de um vídeo do YouTube para aprimorar e praticar minhas habilidades do o frontend.
-  Um relógio digital simples mas de enorme valor pra mim por ser um dos meus primeiros projetos.<br>
+  Pude construir esse projeto através de um vídeo do YouTube para aprimorar e praticar minhas habilidades no frontend.
+  Um relógio digital simples, mas de grande valor pra mim, por ser um dos meus primeiros projetos.<br>
